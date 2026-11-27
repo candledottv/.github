@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Report a vulnerability
+    url: https://docs.candle.tv/rights-and-reporting/vulnerability-disclosure
+    about: Email security@candle.tv. Don't open a public issue.
+  - name: Read the docs
+    url: https://docs.candle.tv
+    about: Guides and reference for the Candle CLI, SDK, MCP server and API.
